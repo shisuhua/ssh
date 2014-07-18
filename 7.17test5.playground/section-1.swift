@@ -7,7 +7,7 @@ import Cocoa
 var remainPeach = 1
 var numberPeach: Int
 var i = 1
-for i in 1...10{
+for i in 1...9{
     remainPeach = 2 * (remainPeach + 1)
 }
 numberPeach = remainPeach
